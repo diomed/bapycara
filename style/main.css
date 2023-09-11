@@ -7,7 +7,7 @@
   --bg-colour: #6f6f36;
   --header-height: 20em;
   --bg-image: url("../img/header.jpg");
-  font-family: 'Inter', sans-serif; 
+  font-family: 'Helsinki', sans-serif; 
 }
 @supports (font-variation-settings: normal) {
   :root { font-family: 'Helsinki', sans-serif; 
