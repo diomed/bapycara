@@ -121,6 +121,10 @@ img.intext {
   width: 50%;
 }
 
+
+img
+{border-radius:10px}
+
 @media screen and (max-width: 768px) {
   .logo {
     right: auto;
